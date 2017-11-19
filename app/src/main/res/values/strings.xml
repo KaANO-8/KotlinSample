@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinSample</string>
+    <string name="tv1">Welcome To</string>
+    <string name="image_caption">Digital banking just got easier at HSBC!</string>
+    <string name="tv_title">Banking\’s digital revolution</string>
+    <string name="author">by Josh Bottomley</string>
+    <string name="content">From buying music to catching up on the news, technology has transformed the way we consume products and services. The same is true in banking. </string>
+
+</resources>
